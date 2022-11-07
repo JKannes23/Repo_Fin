@@ -1,1 +1,3 @@
 # Repo_Fin
+
+My name is Joy Bathsheba Kannes. I am a Nigerian born international professional. I graduated with my MBA from Grand Canyon University in Phoenix, Arizona. I also graduated with my Bachelor of Laws from Kampala International University, Uganda. My goal is to help companies, business owners, and consumers better manage their financial operation by utilizing software and algorithms. I choose FINTech as the career path to have a solid understanding of the core financial fundamentals, and learn skills such as security and privacy, programmability and scalability, trust and transparency, and reliably high performance.
